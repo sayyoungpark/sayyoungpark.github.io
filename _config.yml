@@ -15,11 +15,11 @@ theme                  : "minimal-mistakes-jekyll"
 minimal_mistakes_skin    : "plum" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
-title                    : "스터디룸"
+locale                   : "en-US"
+title                    : "Study Room"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "스뜌던트"
+name                     : "Say Young Park"
 description              : "An amazing website."
 url                      : "https://sayyoungpark.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"

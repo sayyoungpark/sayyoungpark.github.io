@@ -20,7 +20,7 @@ title                    : "Study Room"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Say Young Park"
-description              : "An amazing website."
+description              : ""
 url                      : "https://sayyoungpark.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
